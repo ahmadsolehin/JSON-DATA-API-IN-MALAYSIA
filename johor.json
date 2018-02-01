@@ -1,0 +1,350 @@
+[
+   {
+      "POSTCODE": 79000,
+      "ADDRESS": "Nusajaya - Pembangunan Puteri Harbour",
+      "CITY": "Nusajaya",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 80000,
+      "ADDRESS": "Jalan Abdullah Ibrahim",
+      "CITY": "Johor Bahru",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81000,
+      "ADDRESS": "Bandar Kulai",
+      "CITY": "Kulai",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81400,
+      "ADDRESS": "Flat Perindu",
+      "CITY": "Senai",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81440,
+      "ADDRESS": "Bandar Petri Jaya",
+      "CITY": "Bandar Tenggara",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81450,
+      "ADDRESS": "Felda Bukit Besar",
+      "CITY": "Gugusan Taib Andak",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81500,
+      "ADDRESS": "Desa Baru",
+      "CITY": "Pekan Nenas",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81500,
+      "ADDRESS": "Taman Cempaka",
+      "CITY": "Sungai Mati",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81550,
+      "ADDRESS": "Desa Paya Mengkuang",
+      "CITY": "Gelang Patah",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81600,
+      "ADDRESS": "Batu Layar",
+      "CITY": "Pengerang",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81700,
+      "ADDRESS": "Kampung Pasir Gudang Baru",
+      "CITY": "Pasir Gudang",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81750,
+      "ADDRESS": "Apartment Prima Agency",
+      "CITY": "Masai",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81750,
+      "ADDRESS": "Kampung Kong Kong Laut",
+      "CITY": "masai",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81800,
+      "ADDRESS": "Ban Foo",
+      "CITY": "Ulu Tiram",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81850,
+      "ADDRESS": "Bukit Permai",
+      "CITY": "Layang-Layang",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81900,
+      "ADDRESS": "Bandar Sri Perani",
+      "CITY": "Kota Tinggi",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81920,
+      "ADDRESS": "Ayer Tawar 2",
+      "CITY": "Ayer Tawar 2",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81920,
+      "ADDRESS": "Ladang Ah Tong",
+      "CITY": "Ayer Tawar 3",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81920,
+      "ADDRESS": "Ladang Asahi",
+      "CITY": "Ayer Tawar 4",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81920,
+      "ADDRESS": "Ladang Bukit Tinggi",
+      "CITY": "Ayer Tawar 5",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 81930,
+      "ADDRESS": "Bandar Mas",
+      "CITY": "Bandar Penawar",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 82000,
+      "ADDRESS": "Bandar Baru Pontian",
+      "CITY": "Pontian",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 82100,
+      "ADDRESS": "Ayer Baloi",
+      "CITY": "Ayer Baloi",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 82200,
+      "ADDRESS": "Bandar Baru Benut",
+      "CITY": "Benut",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 82300,
+      "ADDRESS": "Jalan Alsagof Penerok",
+      "CITY": "Kukup",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83000,
+      "ADDRESS": "Bagan",
+      "CITY": "Batu Pahat",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83100,
+      "ADDRESS": "Aked Mara",
+      "CITY": "Rengit",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83200,
+      "ADDRESS": "Batu 11 Bukit Batu",
+      "CITY": "Senggarang",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83300,
+      "ADDRESS": "Batu 5 Jalan Kluang",
+      "CITY": "Seri Gading",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83300,
+      "ADDRESS": "Taman Panchor Riang",
+      "CITY": "Sri Gading",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83400,
+      "ADDRESS": "Air Putih",
+      "CITY": "Seri Medan",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83400,
+      "ADDRESS": "Felcra Sri Wangi",
+      "CITY": "Sri Medan",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83500,
+      "ADDRESS": "Batu 1 Jalan Yong Peng",
+      "CITY": "Parit Sulong",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83600,
+      "ADDRESS": "Jalan Bukit Mor",
+      "CITY": "Semerah",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 83700,
+      "ADDRESS": "Bangunan Mara",
+      "CITY": "Yong Peng",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84000,
+      "ADDRESS": "Ayer Hitam",
+      "CITY": "Muar",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84150,
+      "ADDRESS": "Bukit Mor",
+      "CITY": "Parit Jawa",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84300,
+      "ADDRESS": "Bukit Pasir",
+      "CITY": "Bukit Pasir",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84500,
+      "ADDRESS": "Bukit Setaki",
+      "CITY": "Panchor",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84600,
+      "ADDRESS": "Batu 30 Kampung Sarjan",
+      "CITY": "Pagoh",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84700,
+      "ADDRESS": "Bukit Katil Estate",
+      "CITY": "Gerisek",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84800,
+      "ADDRESS": "Bandar Baru Bukit Gambir",
+      "CITY": "Bukit Gambir",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 84900,
+      "ADDRESS": "Bandar Baru Tangkak",
+      "CITY": "Tangkak",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 85000,
+      "ADDRESS": "Bandar 32",
+      "CITY": "Segamat",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 85100,
+      "ADDRESS": "Batu Anam",
+      "CITY": "Batu Anam",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 85200,
+      "ADDRESS": "Bukit Serampang",
+      "CITY": "Jementah",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 85300,
+      "ADDRESS": "Ayer Panas",
+      "CITY": "Labis",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 85400,
+      "ADDRESS": "Chaah",
+      "CITY": "Chaah",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86000,
+      "ADDRESS": "Bandar Baru",
+      "CITY": "Kluang",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86100,
+      "ADDRESS": "Ayer Hitam",
+      "CITY": "Ayer Hitam",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86200,
+      "ADDRESS": "Bandar Baru Parit Ibrahim Majid",
+      "CITY": "Simpang Rengam",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86300,
+      "ADDRESS": "Bandar Rengam",
+      "CITY": "Rengam",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86400,
+      "ADDRESS": "Bandar Universiti",
+      "CITY": "Parit Raja",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86500,
+      "ADDRESS": "Bekok",
+      "CITY": "Bekok",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86600,
+      "ADDRESS": "Batang Redan",
+      "CITY": "Paloh",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86700,
+      "ADDRESS": "Espek Sungai Chales",
+      "CITY": "Kahang",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86800,
+      "ADDRESS": "Ayer Tawar",
+      "CITY": "Mersing",
+      "STATE": "JHR"
+   },
+   {
+      "POSTCODE": 86900,
+      "ADDRESS": "Belukar Juling",
+      "CITY": "Endau",
+      "STATE": "JHR"
+   }
+]
