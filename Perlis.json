@@ -1,0 +1,38 @@
+[
+   {
+      "POSTCODE": 01000,
+      "ADDRESS": "Alor Redeh",
+      "CITY": "Kangar",
+      "STATE": "PLS"
+   },
+   {
+      "POSTCODE": 02000,
+      "ADDRESS": "Al Marhom Kayang",
+      "CITY": "Kuala Perlis",
+      "STATE": "PLS"
+   },
+   {
+      "POSTCODE": 02100,
+      "ADDRESS": "Aked niaga",
+      "CITY": "Padang Besar",
+      "STATE": "PLS"
+   },
+   {
+      "POSTCODE": 02200,
+      "ADDRESS": "Jalan Padang Besar (Batu 16)",
+      "CITY": "Kaki Bukit",
+      "STATE": "PLS"
+   },
+   {
+      "POSTCODE": 02600,
+      "ADDRESS": "Arau",
+      "CITY": "Arau",
+      "STATE": "PLS"
+   },
+   {
+      "POSTCODE": 02700,
+      "ADDRESS": "Bohor Mali",
+      "CITY": "Simpang Ampat",
+      "STATE": "PLS"
+   }
+]
